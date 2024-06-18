@@ -12,7 +12,7 @@
 - Ex-servidor público como fiscal no Conselho Regional de Odontologia do RS.
 
 ## 💾 Paixão por programação:
-- Primeiros "programas" em arquivos .bat em MS-DOS, configurando seleção de execução de programas e diretórios através de menus,mudança de cor de fontes, etc.
+- Primeiros "programas" em arquivos .bat em MS-DOS, configurando seleção de execução de programas e diretórios através de menus, mudança de cor de fontes, etc.
 - 2º grau em Técnico de Processamento de Dados, utilizando "DataFlex" em 1998;
 - Entusiasta por Banco de Dados e programação voltadas ao comércio, hotelaria e manipulação de dados econômicos;
 
