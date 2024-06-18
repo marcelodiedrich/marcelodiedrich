@@ -43,7 +43,7 @@
 
 <a href="https://www.linkedin.com/in/marcelo-diedrich/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:mar@celo.net.br"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Email&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/marcelodiedrich81"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/marcelodiedrich81"><img src="https://img.shields.io/badge/marcelodiedrich81-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
 <!-- # 📊 GitHub Stats: -->
