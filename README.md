@@ -32,19 +32,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🚧  Buscando conhecimento:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100"/>
-          
+## 🚧  Buscando conhecimento:
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="75" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="75"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="75"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="75"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="75"/>
           
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 📫 &nbsp; Como falar comigo:
-
+          
+## 📫 &nbsp; Como falar comigo:
 
 <a href="https://www.linkedin.com/in/marcelo-diedrich/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:mar@celo.net.br"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Email&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/marcelodiedrich81"><img src="https://img.shields.io/badge/marcelodiedrich81-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- # 📊 GitHub Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
