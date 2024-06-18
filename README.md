@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá! Prazer, sou o Marcelo! </h1>
-<p align="center"><img src="evolution.gif" width="400" alt="evolution.gif"></p>
+<p align="center"><img src="evolution.gif" alt="evolution.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 Sobre mim
